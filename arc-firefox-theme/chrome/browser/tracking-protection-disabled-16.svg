@@ -1,23 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="16" height="16" viewBox="0 0 16 16">
-  <defs>
-    <path id="shape-shield-outer" d="M8,1L2.8,1.9C2.4,1.9,2,2.4,2,2.8C2,4,2,6.1,2.1,7.1c0.3,2.7,0.8,4,1.9,5.6C5.6,14.7,8,15,8,15s2.4-0.3,4-2.4 c1.2-1.5,1.7-2.9,1.9-5.6C14,6.1,14,4,14,2.8c0-0.5-0.4-0.9-0.8-1L8,1L8,1z"/>
-    <path id="shape-shield-inner" d="M8,2l5,0.8c0,2,0,3.5-0.1,4.1c-0.3,2.7-0.8,3.8-1.7,5.1c-1.1,1.5-2.7,1.9-3.2,2c-0.4-0.1-2.1-0.5-3.2-2 c-1-1.3-1.5-2.4-1.7-5.1C3,6.3,3,4.8,3,2.8L8,2"/>
-    <path id="shape-shield-detail" d="M8,13c-0.5-0.1-1.6-0.5-2.4-1.5c-0.9-1.2-1.3-2.1-1.5-4.6C4,6.3,4,5.2,4,3.7L8,3 V13z"/>
-
-    <mask id="mask-shield-cutout">
-      <rect width="16" height="16" fill="#000" />
-      <use xlink:href="#shape-shield-outer" fill="#fff" />
-      <use xlink:href="#shape-shield-inner" fill="#000" />
-      <use xlink:href="#shape-shield-detail" fill="#fff" />
-      <line x1="3" y1="15" x2="15" y2="3" stroke="#000" stroke-width="2" />
-    </mask>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tracking-protection-disabled-16.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="784"
+     inkscape:window-height="480"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="318"
+     inkscape:window-y="131"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#f2f2f2;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }
+      </style>
   </defs>
-
-  <use xlink:href="#shape-shield-outer" mask="url(#mask-shield-cutout)" fill="#808080" />
-  <line x1="3" y1="14" x2="15" y2="2" stroke="#d92d21" stroke-width="2" />
+  <path
+     style="color:#f2f2f2;fill:currentColor;fill-opacity:1;stroke:none"
+     d="m 11.016949,-0.01694915 c 0,0 -2.7499998,3.65408885 -10.99999985,4.57080095 0,0 0,12.8340792 10.99999985,17.4291992 11,-4.59512 11,-17.4291992 11,-17.4291992 -8.25,-0.9167121 -11,-4.57080095 -11,-4.57080095 z m 0,1.89331025 c 2.182114,1.8489622 5.331089,3.0824202 9.412842,3.7033701 -0.221727,1.98715 -0.434333,3.4825782 -0.947993,4.9279748 -1.079498,3.03751 -2.338155,4.885424 -3.467042,6.214354 -1.749309,2.059339 -3.337915,2.892771 -4.997807,3.722171 C 9.3570572,19.614831 7.7684562,18.781399 6.0191456,16.72206 4.8902586,15.39313 3.6316051,13.545216 2.5521053,10.507706 2.0384363,9.0623094 1.825838,7.5668812 1.604108,5.5797312 5.6858532,4.9587813 8.8348362,3.7253233 11.016949,1.8763611 Z m 0,1.6489269 C 8.6196512,5.1894488 5.9264923,6.0322352 3.2234924,6.6056091 4.5034064,13.868357 7.2605992,16.974046 11.016949,18.918846 14.773295,16.974046 17.530493,13.868357 18.810412,6.6056091 16.107401,6.0322351 13.41426,5.1894488 11.016949,3.525288 Z"
+     class="ColorScheme-Text"
+     id="path6"
+     inkscape:connector-curvature="0" />
+  <path
+     style="color:#da4453;fill:currentColor;fill-opacity:1;stroke:none"
+     d="m 12.391949,10.983051 c -0.761778,0 -1.375,0.613243 -1.375,1.375 l 0,8.25 c 0,0.76188 0.613222,1.375 1.375,1.375 l 8.25,0 c 0.761778,0 1.375,-0.61312 1.375,-1.375 l 0,-8.25 c 0,-0.761757 -0.613222,-1.375 -1.375,-1.375 l -8.25,0 z"
+     class="ColorScheme-NegativeText"
+     id="path8"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 13.766949,12.358051 -1.375,1.375 2.75,2.75 -2.75,2.75 1.375,1.375 2.75,-2.75 2.75,2.75 1.375,-1.375 -2.75,-2.75 2.75,-2.75 -1.375,-1.375 -2.75,2.75 -2.75,-2.75 z"
+     id="path4141"
+     inkscape:connector-curvature="0" />
 </svg>
