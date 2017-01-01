@@ -1,4 +1,4 @@
-AC_INIT([rsm-firefox-theme], [49.20160920], [https://github.com/jacobtey/rsm-firefox-theme/issues], [rsm-firefox-theme], [https://github.com/jacobtey/rsm-firefox-theme])
+AC_INIT([rsm-firefox-theme], [50.20161114], [https://github.com/jacobtey/rsm-firefox-theme/issues], [rsm-firefox-theme], [https://github.com/jacobtey/rsm-firefox-theme])
 AM_INIT_AUTOMAKE([-Wno-portability no-dist-gzip dist-xz foreign subdir-objects tar-ustar])
 AC_PREFIX_DEFAULT(/usr/local)
 AM_SILENT_RULES([yes])
