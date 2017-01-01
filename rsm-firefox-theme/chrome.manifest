@@ -1,0 +1,4 @@
+skin    browser         rsm-theme   chrome/browser/
+skin    communicator    rsm-theme   chrome/communicator/
+skin    global          rsm-theme   chrome/global/
+skin    mozapps         rsm-theme   chrome/mozapps/

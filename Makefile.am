@@ -1,9 +1,9 @@
 ACLOCAL_AMFLAGS = -I m4
 AM_CFLAGS =
 
-light_guid = 52c2877e-44e1-11e5-8874-a62d1d5d46B0
-darker_guid = 8a01dfcc-450f-11e5-909b-fb581d5d46b0
-dark_guid = 03cb16aa-4675-11e5-b233-213b1d5d46b0
+light_guid = f3e604dd-f4de-4311-88b0-7ac45cadc068
+darker_guid = 8199d028-4c2c-4e4d-857f-23759b2579de
+dark_guid = 2b61e02d-6a39-412b-937a-917c7f3bbefa
 
 lighttempdir = $(top_builddir)/rsm-firefox-theme-light
 darkertempdir = $(top_builddir)/rsm-firefox-theme-darker

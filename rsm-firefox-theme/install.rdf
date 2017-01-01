@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>{f3e604dd-f4de-4311-88b0-7ac45cadc068}</em:id>
+    <em:version>50.20161114</em:version>
+    <em:type>4</em:type>
+    <em:name>RSM Theme</em:name>
+    <em:description>RSM Theme for Firefox</em:description>
+    <em:creator>jacobtey</em:creator>
+    <em:internalName>rsm-theme</em:internalName>
+    <em:skinnable>false</em:skinnable>
+    <em:targetPlatform>Linux</em:targetPlatform>
+    <em:targetPlatform>OpenBSD</em:targetPlatform>
+    <em:targetPlatform>FreeBSD</em:targetPlatform>
+    <em:targetPlatform>NetBSD</em:targetPlatform>
+
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>50.0</em:minVersion>
+        <em:maxVersion>53.0</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    
+  </Description>
+</RDF>

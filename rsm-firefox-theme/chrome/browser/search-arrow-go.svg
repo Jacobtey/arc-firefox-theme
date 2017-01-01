@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="search-arrow-go.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="724"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="23.094703"
+     inkscape:cx="5.9860402"
+     inkscape:cy="7.1340319"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <style
+     id="style4">
+    use:not(:target) {
+      display: none;
+    }
+    use {
+      fill: #616366;
+    }
+    use[id$=&quot;-inverted&quot;] {
+      fill: #fff;
+    }
+  </style>
+  <defs
+     id="defs6">
+    <path
+       id="search-arrow-go-glyph"
+       d="M1,7v2.2C1,9.8,1.4,10,2,10h7.5l-3,3.1c-0.4,0.3-0.4,1,0,1.4l0.8,0.8 c0.4,0.4,1,0.4,1.4,0l6.6-6.6c0.4-0.4,0.4-1,0-1.4L8.7,0.7c-0.4-0.4-1-0.4-1.4,0L6.5,1.6C6.1,2,6.1,2.6,6.5,3l3,3H2C1.4,6,1,6.4,1,7z" />
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#31363b;fill-opacity:1;stroke:none"
+     d="M 12.837437,8 4.5027677,-5.9999999e-8 3.5041007,0.9586673 9.2347677,6.4586663 10.884091,8 9.2347677,9.5413339 3.5041007,15.041342 4.5027677,16 10.233435,10.5 Z"
+     class="ColorScheme-Text"
+     id="path6" />
+</svg>
