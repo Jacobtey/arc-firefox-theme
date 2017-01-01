@@ -1,6 +1,6 @@
-# ARC_ENABLE(VARIABLE, FEATURE, HELP-NAME, DISABLE/ENABLE)
+# RSM_ENABLE(VARIABLE, FEATURE, HELP-NAME, DISABLE/ENABLE)
 # -----------------------------------------------------------
-AC_DEFUN([ARC_ENABLE], [
+AC_DEFUN([RSM_ENABLE], [
     AC_ARG_ENABLE(
         [$2],
         [AS_HELP_STRING(
